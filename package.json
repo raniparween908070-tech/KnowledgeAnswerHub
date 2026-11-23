@@ -8,8 +8,8 @@
   "scripts": {
     "dev": "node server.js",
     "start": "node server.js",
-    "lint": "node --check server.js && node --check netlify/functions/api.js && node --check public/app.js"
-  },
+    "lint": "node --check server.js && node --check netlify/functions/api.js && node --check public/app.js".
+  },"build": "echo 'build ok'"
   "dependencies": {
     "@google/genai": "^3.6.1",
     "@tailwindcss/vite": "^4.3.3",
