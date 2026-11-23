@@ -65,7 +65,7 @@ knowledge-answer-hub/
 
 3. **Run the website**:
    ```bash
-   npm start
+   npm start 
    ```
    Or for development:
    ```bash
