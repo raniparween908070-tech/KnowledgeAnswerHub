@@ -1,0 +1,8 @@
+{
+  "name": "Knowledge Answer Hub",
+  "description": "An AI-powered question and answer educational platform providing clear, structured explanations across multiple subjects and languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
